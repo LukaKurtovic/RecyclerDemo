@@ -1,2 +1,2 @@
 # RecyclerDemo
-Recycler view with swiping and dragging using ItemTouchHelper.Callback
+RecyclerView with swiping and dragging using ItemTouchHelper.Callback
